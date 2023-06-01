@@ -1,0 +1,31 @@
+{
+  "browserslist": [
+    ">0.2%",
+    "not dead"
+  ],
+  "dependencies": {
+    "@ant-design/icons": "latest",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "antd": "5.5.2",
+    "rc-util": "^5.32.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "typescript": "^5.0.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "title": "Sider - antd@5.5.2",
+  "name": "sider-antd552-forked",
+  "description": null,
+  "version": "0.0.0"
+}
